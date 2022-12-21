@@ -1,0 +1,5 @@
+host:localhost
+port:3000
+numStudents:20
+numGroups:5
+numHouses:4
